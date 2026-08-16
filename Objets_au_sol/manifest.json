@@ -1,0 +1,15 @@
+{
+  "id": "ground-items-gen1",
+  "name": "Objets au sol",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "game_version": ">=0.1.98 <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 50,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Rend visibles et facilement interactifs les objets caches encore presents dans Pokemon Rouge, Bleu et Jaune, sans modifier la ROM."
+}
