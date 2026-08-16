@@ -51,6 +51,21 @@ mod.hooks:wrap("movement.collision", function(next, allowed, ctx)
   return allowed
 end)
 
+-- Le moteur teste les rebords avant le hook movement.collision. Sans cette
+-- interception, descendre lance encore le saut vanilla de deux cases alors
+-- que remonter traverse deja le rebord normalement.
+do
+  local OverworldController = require("src.world.OverworldController")
+  if not OverworldController._marchePartoutLedgeBase then
+    local base = OverworldController.checkLedgeHop
+    OverworldController._marchePartoutLedgeBase = base
+    function OverworldController:checkLedgeHop(dir)
+      if enabled() then return false end
+      return base(self, dir)
+    end
+  end
+end
+
 mod.events:on("game.ready", function()
   mod.log:info("Marche-Partout charge (option: %s)", enabled() and "active" or "inactive")
 end)

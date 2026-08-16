@@ -1,4 +1,4 @@
-# Marche-Partout 1.0.0
+# Marche-Partout 1.0.1
 
 Addon pour Gen1Recomp 0.1.96, compatible avec Pokémon Rouge, Bleu et Jaune.
 
@@ -9,10 +9,11 @@ Addon pour Gen1Recomp 0.1.96, compatible avec Pokémon Rouge, Bleu et Jaune.
 - Ne modifie pas la sauvegarde pour activer son effet.
 - Conserve les limites de carte afin d'éviter les plantages.
 - N'affecte que le joueur : les déplacements des PNJ restent normaux.
+- Traverse les rebords sans déclencher le saut automatique en descente.
 
 ## Installation
 
-Importez `Marche-Partout-1.0.0.zip` dans le gestionnaire de mods de
+Importez `Marche-Partout-1.0.1.zip` dans le gestionnaire de mods de
 Gen1Recomp, puis activez **Marche-Partout**.
 
 L'option **MARCHE-PARTOUT** permet de couper ou de réactiver l'effet sans
