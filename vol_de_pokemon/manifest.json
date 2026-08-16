@@ -1,0 +1,18 @@
+{
+  "id": "vol_de_pokemon",
+  "name": "Vol de Pokemon",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["red", "blue", "yellow"],
+  "game_version": ">=0.1.96 <0.2.0",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": ["engine_internals"],
+  "description": "Permet de capturer le Pokemon adverse pendant un combat de dresseur. Une capture reussie remporte le combat."
+}
+
