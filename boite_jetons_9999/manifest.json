@@ -1,0 +1,15 @@
+{
+  "id": "boite_jetons_9999",
+  "name": "Boite Jetons 9999",
+  "version": "1.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "games": ["red", "blue", "yellow"],
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Maintient le solde du casino a 9 999 jetons tant que la Boite Jetons est dans le sac."
+}

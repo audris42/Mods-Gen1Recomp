@@ -1,0 +1,30 @@
+{
+  "modkit": "1.0.0",
+  "packed_at": "2026-08-16T09:30:24Z",
+  "id": "boite_jetons_9999",
+  "version": "1.1.0",
+  "api": 2,
+  "engine_range": "",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 781,
+      "sha256": "3abf59689ac2bd0feb46aa8907e243188cc996ba7c0e25c72a3d747420b5e033"
+    },
+    {
+      "path": "main.lua",
+      "bytes": 733,
+      "sha256": "19006c578b0f8949cd98d93a591ce3ce9ba10173e441d96098f0ea3e4f4a64b2"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 405,
+      "sha256": "787b99ca1768f573f8bb6728da5c94253ecc53c9b05115f46215fcdfe0ff2da9"
+    }
+  ],
+  "lint": {
+    "no_rom_content": "pass",
+    "schema": "pass",
+    "cross_refs": "pass"
+  }
+}
