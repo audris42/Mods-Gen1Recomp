@@ -1,0 +1,17 @@
+{
+  "id": "MARCHE_PARTOUT",
+  "name": "Marche-Partout",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 50,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": ["engine_internals"],
+  "affects_link": false,
+  "description": "Permet au joueur de traverser murs, eau et personnages. Activable dans les options du mod."
+}
