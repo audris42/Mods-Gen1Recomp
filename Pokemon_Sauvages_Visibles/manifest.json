@@ -1,0 +1,16 @@
+{
+  "id": "visible_wild_pokemon",
+  "name": "Pokemon Sauvages Visibles",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "game_version": ">=0.1.98 <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Affiche les Pokemon sauvages dans les hautes herbes et lance le combat au contact, sans modifier la ROM."
+}
