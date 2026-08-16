@@ -1,0 +1,15 @@
+{
+  "id": "translation-fr",
+  "name": "Pokemon Trad Fr",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "French translation for Pokémon Red, Blue and Yellow. macOS font-safe build: keeps the built-in font to prevent invisible menus."
+}
