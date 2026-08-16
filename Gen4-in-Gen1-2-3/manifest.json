@@ -1,0 +1,15 @@
+{
+  "id": "gen4-in-gen-1-2-3",
+  "name": "Gen4 in Gen.1/2/3",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "VISUAL",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": ["pikachu-gold-sprites"],
+  "description": "Gen4 in Gen.1/2/3 - remplacement visuel des sprites des 151 Pokemon de Gen 1."
+}
