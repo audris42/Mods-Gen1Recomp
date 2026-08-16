@@ -9,7 +9,7 @@ remboursés dès le cycle de jeu suivant. La Boîte Jetons n'est pas consommée.
 ## Installation
 
 1. Ouvrez le gestionnaire de mods de Gen1Recomp.
-2. Importez `boite_jetons_9999.zip`.
+2. Importez `Boite_jetons_9999.zip`.
 3. Activez **Boite Jetons 9999** pour Rouge, Bleu ou Jaune.
 4. Lancez le jeu avec la Boîte Jetons dans le sac.
 
