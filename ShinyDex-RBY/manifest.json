@@ -1,0 +1,16 @@
+{
+  "id": "shinydex_rby",
+  "name": "ShinyDex RBY",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "TOOL",
+  "game_version": ">=0.1.96 <2.0.0",
+  "priority": 110,
+  "dependencies": [],
+  "optional_dependencies": ["SHINY_POKEMON", "translation-fr"],
+  "conflicts": [],
+  "affects_link": false,
+  "description": "Pokedex chromatique separe pour Pokemon Rouge, Bleu et Jaune."
+}
