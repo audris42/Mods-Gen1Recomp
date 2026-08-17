@@ -1,0 +1,19 @@
+{
+  "id": "revanche_kanto",
+  "name": "Revanche de Kanto",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "games": ["red", "blue", "yellow"],
+  "game_version": ">=0.1.96 <0.2.0",
+  "priority": 120,
+  "author": "audrisrichard",
+  "dependencies": [],
+  "optional_dependencies": ["translation-fr"],
+  "conflicts": [],
+  "permissions": ["engine_internals"],
+  "affects_link": false,
+  "description": "Apres la Ligue et le retour a Bourg Palette, les dresseurs ordinaires deja vaincus peuvent etre affrontes une nouvelle fois."
+}
