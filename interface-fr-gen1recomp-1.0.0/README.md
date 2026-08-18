@@ -30,6 +30,16 @@ libellés d’options nécessaires à une interface cohérente.
   d'options tiers restent dans la langue choisie par leurs auteurs.
 - Les quelques valeurs d'options dessinées directement sans passer par le
   registre Strings ne peuvent pas être traduites par ce mod minimal.
+- Compatible : 
+  ↳ iOS
+  ↳ Android
+  ↳ Linux
+  ↳ MacOS
+  ↳ StockoOS64
+  ↳ PortMaster
+  ↳ Switch
+  ↳ Windows
+  ↳ Xbox
 
 Pour modifier une formulation, éditez uniquement lang/strings.lua en
 conservant exactement les marqueurs de format tels que %s, %d et %%.
