@@ -1,0 +1,17 @@
+{
+  "id": "zz-interface-fr",
+  "name": "Interface française",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.2.4 <1.0.0",
+  "category": "LANGUAGE",
+  "language": true,
+  "priority": 200,
+  "games": ["all"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Complément français métropolitain pour l'interface du lanceur Gen1Recomp 0.2.4."
+}
